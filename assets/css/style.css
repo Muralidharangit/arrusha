@@ -2031,7 +2031,7 @@ select {
     max-width: 120px;
   } */
   .navbar-brand img {
-    max-width: 300px;
+    max-width: 200px;
   }
   .header-wrap.sticky {
     top: 0;
@@ -7862,7 +7862,7 @@ article {
   font-weight: 600;
   line-height: 0.8;
   /* color: #ed212a; */
-  color: black;
+  color: #ffffff;
 }
 .footer-wrap .footer-widget .contact-info li p,
 .footer-wrap .footer-widget .contact-info li a {
